@@ -1,4 +1,6 @@
 
+This plugin is __experimental__ until the first release all can change.
+
 # Logstash HDFS Plugin
 
 This is a plugin for [Logstash](https://github.com/elastic/logstash),
